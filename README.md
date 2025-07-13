@@ -1,7 +1,6 @@
 # 🧠 Sentiment Analysis on Stock & Article Text using NLTK (VADER)
 
-This repository contains an end-to-end implementation of **Sentiment Analysis** using **Natural Language Toolkit (NLTK)**, specifically the **VADER (Valence Aware Dictionary for sEntiment Reasoning)** sentiment analyzer. 
-
+This repository contains an end-to-end implementation of **Sentiment Analysis** using **Natural Language Toolkit (NLTK)**.
 The focus is on analyzing the sentiment of **stock-related content** and **news articles**, applying preprocessing techniques and rule-based classification without training a machine learning model.
 
 -----------
